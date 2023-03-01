@@ -3,7 +3,7 @@
 <suite name="Regression Test Suite" parallel="tests" thread-count="2">
     <test name="User Test">
         <classes>
-            <class name="UsersTest"></class>
+            <class name="UsersTest1"></class>
         </classes>
     </test>
     <test name="mandatory test">
