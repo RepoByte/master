@@ -6,4 +6,9 @@
             <class name="UsersTest"></class>
         </classes>
     </test>
+    <test name="mandatory test">
+        <classes>
+            <class name="UsersTest"></class>
+        </classes>
+    </test>
 </suite>
